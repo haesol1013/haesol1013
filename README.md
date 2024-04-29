@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
 </div>
-
+<br/>
 
 
 ## 🚀 Activity
@@ -34,6 +34,7 @@
         <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
     </div>
 </div>
+<br/>
 
 ## 📪 Contact
 <div>
