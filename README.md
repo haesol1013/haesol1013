@@ -10,9 +10,9 @@
  </div>
 
 <div align="center">
-    <h2>🛠️ Stack</h2>
+    <h2>🛠️ Skills</h2>
     <div style="margin-bottom: -8px;">
-        <h3>Programming Language</h3>
+        <h3>Programming Languages</h3>
     </div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <div style="margin-bottom: -8px;">
