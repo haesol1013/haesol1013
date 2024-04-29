@@ -27,6 +27,9 @@
     <a href="https://solved.ac/profile/shinhaesol11"> 
         <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=buefy&hide_border=true&count_private=true"/>
+    </a>
 </div>
 <br/>
 <br/>
