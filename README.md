@@ -2,6 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,6,14,15,18&height=200&text=Hello%20World!&fontSize=58&fontAlign=25&&fontAlignY=43"/>
 </div>
 
+<div align="center">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesol1013&count_bg=%2307D5C6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069">
+        <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024"></a>
+ </div>
+
 ## 🌱 Currently Learning
 <div align="center">
     <h3>Programming Language </h3>
@@ -14,26 +21,6 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
 </div>
-<br/>
-<br/>
-
-
-## 🚀 Activity
-<div align="center">
-    <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069">
-        <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024">
-    </a>
-    <h3>solved.ac</h3>
-    <a href="https://solved.ac/profile/shinhaesol11"> 
-        <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
-    </a>
-    <h3>GitHub Stats</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=graywhite&hide_border=true&count_private=true", width=45%/>
-    </a>
-</div>
-<br/>
-<br/>
 
 ## 📪 Contact
 <div>
