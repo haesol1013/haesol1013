@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
 </div>
 <br/>
+<br/>
 
 
 ## 🚀 Activity
@@ -34,6 +35,7 @@
         <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
     </div>
 </div>
+<br/>
 <br/>
 
 ## 📪 Contact
