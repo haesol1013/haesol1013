@@ -29,7 +29,7 @@
     </a>
     <h3>GitHub Stats</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=buefy&hide_border=true&count_private=true", width=50%/>
+        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=buefy&hide_border=true&count_private=true", width=47%/>
     </a>
 </div>
 <br/>
