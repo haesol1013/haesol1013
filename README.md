@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
 </div>
 
-
+<br>
 <div align="center">
     <h2>📪 Contact</h2>
     <a href="mailto:shinhaesol11@gmail.com">
