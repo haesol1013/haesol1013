@@ -3,7 +3,6 @@
 </div>
 
 ## 🌱 Currently Learning
-
 <div>
     <h3>Programming Language </h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -20,20 +19,19 @@
 
 
 ## 🚀 Activity
-
-<div >
-    <div>
-        <a href="https://hits.seeyoufarm.com" style="margin-right: 10px;">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesol1013&count_bg=%233DC8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-        </a>
-        <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069">
-            <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024">
-        </a>
-    </div>
-    <div>
-        <h3>solved.ac</h3>
+<div>
+    <a href="https://hits.seeyoufarm.com" style="margin-right: 10px;">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesol1013&count_bg=%233DC8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+    </a>
+    <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069">
+        <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024">
+    </a>
+</div>
+<div>
+    <h3>solved.ac</h3>
+    <a href="https://solved.ac/profile/shinhaesol11"> 
         <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
-    </div>
+    </a>
 </div>
 <br/>
 <br/>
