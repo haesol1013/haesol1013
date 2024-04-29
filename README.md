@@ -9,11 +9,15 @@
         <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024"></a>
  </div>
 
-## 🌱 Currently Learning
 <div align="center">
-    <h3>Programming Language </h3>
+    <h2>🛠️ Stack</h2>
+    <div style="margin-bottom: -8px;">
+        <h3>Programming Language</h3>
+    </div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <h3>Tools</h3>
+    <div style="margin-bottom: -8px;">
+        <h3>Tools</h3>
+    </div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntellijIdea&logoColor=white" alt="IntelliJ IDEA">
@@ -21,8 +25,9 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
 </div>
 
-## 📪 Contact
-<div>
+
+<div align="center">
+    <h2>📪 Contact</h2>
     <a href="mailto:shinhaesol11@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
     </a>
