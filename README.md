@@ -23,12 +23,11 @@
     <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069">
         <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024">
     </a>
-    <h3>solved.ac</h3>
     <a href="https://solved.ac/profile/shinhaesol11"> 
         <img src="http://mazandi.herokuapp.com/api?handle=shinhaesol11&theme=warm"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=buefy&hide_border=true&count_private=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=haesol1013&show_icons=true&theme=buefy&hide_border=true&count_private=true", width=60%/>
     </a>
 </div>
 <br/>
