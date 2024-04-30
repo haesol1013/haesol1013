@@ -14,15 +14,19 @@
     <div style="margin-bottom: -8px;">
         <h3>Programming Languages</h3>
     </div>
+    <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </div>
     <div style="margin-bottom: -8px;">
         <h3>Tools</h3>
     </div>
+    <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntellijIdea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
+    </div>
 </div>
 
 <br>
