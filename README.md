@@ -10,7 +10,7 @@
  </div>
 
 <div>
-    <h2>🛠️ Tech Stack</h2>
+    <h2>🛠️ Tech Stacks</h2>
     <h3>Programming Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <h3>Tools</h3>
