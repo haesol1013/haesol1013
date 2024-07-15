@@ -9,8 +9,8 @@
         <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024"></a>
  </div>
 
-<div align="center">
-    <h2>🛠️ Skills 🛠️</h2>
+<div>
+    <h2>🛠️ Tech Stack</h2>
     <h3>Programming Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <h3>Tools</h3>
@@ -22,8 +22,8 @@
 </div>
 
 <br>
-<div align="center">
-    <h2>📪 Contact 📪</h2>
+<div>
+    <h2>📪 Contact Me</h2>
     <a href="mailto:shinhaesol11@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
     </a>
