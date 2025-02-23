@@ -54,8 +54,8 @@
   </li>
 </ul>
 
-<!-- "Tech Stacks" Section -->
-<h2>🛠️ Tech Stacks</h2>
+<!-- "Favorite Tools" Section -->
+<h2>🛠️ Favorite Tools</h2>
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
