@@ -2,11 +2,6 @@
 <div align="center">
   <!-- Waving banner image -->
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=3,4,6,14,15,18&amp;height=200&amp;text=Hello%20World!&amp;fontSize=58&amp;fontAlign=25&amp;fontAlignY=43" alt="Banner" />
-  <div style="white-space: nowrap;">
-    <!-- GitHub hits counter -->
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesol1013&amp;count_bg=%2307D5C6&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=false" alt="Hits" />
-    </a>
     <!-- Wakatime badge -->
     <a href="https://wakatime.com/@018e9ebf-f215-481e-bbea-1fa1664c5069" target="_blank">
       <img src="https://wakatime.com/badge/user/018e9ebf-f215-481e-bbea-1fa1664c5069.svg" alt="Total time coded since Apr 2 2024" />
