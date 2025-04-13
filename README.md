@@ -10,7 +10,11 @@
 </div>
 
 <!-- Greeting Section -->
-<h2 align="left">👽 Hi, there! 👋</h2>
+<h2 align="left">👽 Hi, there! 
+  <img src="https://github.com/haesol1013/haesol1013/blob/main/img/Hi.gif" height="30" />
+</h2>
+
+<img align="right" src="https://github.com/haesol1013/haesol1013/blob/main/img/dance.gif" height="150" />
 
 <!-- Typing SVG for dynamic messages -->
 <a href="https://git.io/typing-svg">
@@ -36,7 +40,7 @@
 <!-- "Papers & Research" Section -->
 <h4>📜 Papers & Research</h4>
 <ul>
-  <li>...</li>
+  <li><img src="https://github.com/haesol1013/haesol1013/blob/main/img/hmm.gif" height="24" /></li>
 </ul>
 
 <!-- "Awards" Section -->
