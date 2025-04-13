@@ -10,9 +10,7 @@
 </div>
 
 <!-- Greeting Section -->
-<h2 align="left">👽 Hi, there! 
-  <img src="https://github.com/haesol1013/haesol1013/blob/main/img/Hi.gif" height="30" />
-</h2>
+<h2 align="left">👽 Hi, there! 👋</h2>
 
 <img align="right" src="https://github.com/haesol1013/haesol1013/blob/main/img/dance.gif" height="150" />
 
